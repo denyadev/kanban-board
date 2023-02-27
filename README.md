@@ -1,4 +1,5 @@
 ////////////////////////////////////////////////////////////////
+
 // Title: KanbanBoard
 // Author: Denis Kosogov
 // Date: 2/26/2023
@@ -32,4 +33,5 @@
 // Lastly it would probably be better to use a state management library
 // such as redux or react context to manage the state globally instead of
 // passing props.
+
 ////////////////////////////////////////////////////////////////
